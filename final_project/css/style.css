@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Playfair+Display:400,400i,700,700i,900|Poppins:400,400i,600,700,900&display=swap');
+
+h1{
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Playfair Display', serif;
+  border-bottom: 1px dotted black;
+  display: inline-block;
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+
+body {
+  font-family: 'Lora', serif;
+  background-color: #66ff99;
+}
+
+p{
+  text-align: center;
+}
+h2 {
+  font-style: italic;
+}
+
+img{
+  display: block;
+  margin: 20px 200px;
+}
+
+#color {
+  color: #003300;
+  font-weight: bold;
+}
+
+.emphasis{
+  font-weight: bold;
+}
+
+#background{
+  text-align: center;
+}
